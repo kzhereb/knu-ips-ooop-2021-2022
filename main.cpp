@@ -8,7 +8,7 @@
 
 #include <iostream>
 
-int main() {
+int main_unused() {
 	std::cout<<"hello world"<<std::endl;
 	return 0;
 }
